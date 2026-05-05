@@ -38,4 +38,4 @@ The program "jumps" to the start of each of the nine 3 \times 3 boxes using thes
 
 Author
 
-​Darshini Sattaru
+​Darshini Sattaru Sudoku Solver Project - 2026
